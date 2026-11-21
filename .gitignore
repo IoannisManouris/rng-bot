@@ -1,0 +1,34 @@
+# Local configuration
+.env
+.env.*
+!.env.example
+settings.json
+*.pem
+*.key
+*.pfx
+# Editors, caches and local builds
+.idea/
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.o
+*.obj
+*.so
+*.dylib
+*.pdb
+*.zip
+*.log
+discloud/import/

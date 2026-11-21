@@ -1,0 +1,50 @@
+{
+  "guild_id": 0,
+  "biome_channel_id": 0,
+  "staff_channel_id": 0,
+  "announcement_channel_id": 0,
+  "luck_channel_ids": [
+    0
+  ],
+  "roll_channel_ids": [
+    0
+  ],
+  "gamepass_id": 0,
+  "gamepass_role_id": 0,
+  "message_role_id": 0,
+  "exempt_user_ids": [],
+  "rarity_roles": {
+    "Acidic": 0,
+    "Arcane": 0,
+    "Ash": 0,
+    "Auris": 0,
+    "Barrier": 0,
+    "Bewitchment": 0,
+    "Blitz": 0,
+    "Blizzard": 0,
+    "Blockage": 0,
+    "Common": 0,
+    "Crown": 0,
+    "Destroyer": 0,
+    "Devilish": 0,
+    "Digitality": 0,
+    "Emerald": 0,
+    "Enraged": 0,
+    "Epic": 0,
+    "Flame": 0,
+    "Hail": 0,
+    "Hazardous": 0,
+    "Holy": 0,
+    "Ink": 0,
+    "Ion": 0,
+    "Legendary": 0,
+    "Menace": 0,
+    "Rainfall": 0,
+    "Rare": 0,
+    "Snow": 0,
+    "Telekenesis": 0,
+    "Toxic": 0,
+    "Uncommon": 0,
+    "Unknown": 0
+  }
+}

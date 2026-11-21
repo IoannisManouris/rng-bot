@@ -1,0 +1,10 @@
+profile: public-oss
+owner: IoannisManouris
+repository: rng-bot
+description: "A Discord rarity game with changing weather, collectible roles, and timed luck boosts."
+visibility: public
+default_branch: main
+license: unlicensed
+status: historical-source
+topics: [discord-bot, discord-py, python, roblox, rng]
+release_policy: no-versioned-releases
